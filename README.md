@@ -17,8 +17,10 @@ This repository includes code to reproduce the experimental results. This includ
 ## Setup 
 
 
-To run this project, first install the requirements:
+To run this project, first install the requirements (recommended to create a virtual environment):
 
+    python3 -m venv tnc_env
+    source tnc_env/bin/activate
     pip install -r requirements.txt
 
 
